@@ -1,0 +1,1 @@
+# bitrix_bp_activity_calendar_event_and_ics_file
